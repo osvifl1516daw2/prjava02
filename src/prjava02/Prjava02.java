@@ -25,6 +25,7 @@ public class Prjava02 {
             System.out.println("Versió OS: " + System.getProperty("os.version"));
         }
         catch (IOException e) {
-        }  
+        }
+        System.out.println("Creació d'una branca del projecte prjava02"); 
     }
 }
