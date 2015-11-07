@@ -28,5 +28,6 @@ public class Prjava02 {
         }
         System.out.println("Creació d'una branca del projecte prjava02"); 
         System.out.println("Afegint més codi a la branca00 del projecte prjava02");
+        System.out.println("Afegint codi a la branca01 del projecte prjava02");
     }
 }
